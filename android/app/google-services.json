@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1081237423871",
+    "project_id": "chatterly-1b634",
+    "storage_bucket": "chatterly-1b634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081237423871:android:852124dea0c211e573aeca",
+        "android_client_info": {
+          "package_name": "com.devanshp.chatterly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081237423871-6272akddqq6bh53t5ons6aha2g65e3qt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devanshp.chatterly",
+            "certificate_hash": "ab4755e749390f5cea584093465da00df060d89f"
+          }
+        },
+        {
+          "client_id": "1081237423871-a975k4u65knh8id635fumgungu2ees4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxyY42B1ryhhVqisxQbbHRJ1-RZOlxA8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081237423871-a975k4u65knh8id635fumgungu2ees4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
